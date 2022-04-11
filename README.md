@@ -144,11 +144,4 @@ Once done you'll have to <b>Click on Refresh</b> button on train KNN Model and t
  - [ ] Unit tests
  
 
-## Developer:
-## <a href="https://www.linkedin.com/in/gaganmanku96/">Gagandeep Singh</a>
-## Endorse me at LinkedIn if this project was helpful. [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaganmanku96/)
 
-
-## Vote of Thanks
-- Thanks to [Davis King](https://github.com/davisking) for creating dlib and for providing the trained facial feature
-  detection and face encoding models used in this project.
